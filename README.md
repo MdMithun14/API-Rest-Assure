@@ -1,4 +1,4 @@
-# Dmoney-Rest-Assured
+
 # Dmoney API Test Automation REST Assured
 This repository contains automated test scripts for the Dmoney API using Rest Assured. The test scripts automate various activities outlined in the task description.
 
